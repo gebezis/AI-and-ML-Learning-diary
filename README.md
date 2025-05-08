@@ -1,6 +1,6 @@
 # Learning Journal
 
-Welcome to my learning journal! This repository is where I document my journey in learning data science, machine learning, and AI.
+Welcome to my learning journal! This repository is where I document my journey in learning data science, machine learning, and AI. I'm currently revising a Data Science series of courses I took two years ago with IBM.
 
 ## Structure
 - **`diary/`**: A daily or weekly log of my learning progress and reflections.

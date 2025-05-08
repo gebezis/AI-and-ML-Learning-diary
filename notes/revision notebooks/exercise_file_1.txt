@@ -1,0 +1,11 @@
+This is the first line of the file.
+It has multiple lines.
+Each line ends with a newline character.
+You can read and write to this file.
+It's a good idea to practice file I/O.
+Files are an important part of programming.
+You can store data in files.
+And read it back later.
+Files can be used for many things.
+Like storing user data.
+Or logging events.
